@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pythonprincesss
+- 👋 Hi, I’m @pythonprincesss. I like music, getting nostalgiac on Neopets, and bouncing off the walls.
 - 👀 I’m interested in ... learning to design simple programs with python, refreshing 15-year-old and fading knowledge of CSS, killing time.
 - 🌱 I’m currently learning ... nothing applicable to anything useful, if I'm being honest.
 - 💞️ I’m looking to collaborate on ... nah.
